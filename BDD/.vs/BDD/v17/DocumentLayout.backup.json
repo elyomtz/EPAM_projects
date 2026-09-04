@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\tests\\stepdefinitions\\searchremotejobsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:tests\\stepdefinitions\\searchremotejobsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|BDD.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\tests\\features\\searchremotejobs.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|BDD.csproj|solutionrelative:tests\\features\\searchremotejobs.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\tests\\stepdefinitions\\searchwordsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:tests\\stepdefinitions\\searchwordsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\tests\\stepdefinitions\\filedownloadstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:tests\\stepdefinitions\\filedownloadstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\tests\\stepdefinitions\\articlematchesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:tests\\stepdefinitions\\articlematchesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\pages\\searchremotejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:pages\\searchremotejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\pages\\searchforwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:pages\\searchforwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\pages\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:pages\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\pages\\articlematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:pages\\articlematches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:hooks\\testhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:configuration\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\configuration\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:configuration\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\driver\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:driver\\drivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\driver\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:driver\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|c:\\users\\elyom\\documents\\elyofiles\\epam\\specialization\\epam_projects\\bdd\\support\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF62943-A1C2-45B8-8AB7-19071B57BA9A}|Module6_Task2.csproj|solutionrelative:support\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestHooks.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Hooks\\TestHooks.cs",
+              "RelativeDocumentMoniker": "Hooks\\TestHooks.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Hooks\\TestHooks.cs",
+              "RelativeToolTip": "Hooks\\TestHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T03:52:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleMatches.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\ArticleMatches.cs",
+              "RelativeDocumentMoniker": "Pages\\ArticleMatches.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\ArticleMatches.cs",
+              "RelativeToolTip": "Pages\\ArticleMatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:56:10.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\BasePage.cs",
+              "RelativeToolTip": "Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:53:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileDownload.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\FileDownload.cs",
+              "RelativeDocumentMoniker": "Pages\\FileDownload.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\FileDownload.cs",
+              "RelativeToolTip": "Pages\\FileDownload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:59:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchWordsStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\SearchWordsStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Tests\\StepDefinitions\\SearchWordsStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\SearchWordsStepDefinitions.cs",
+              "RelativeToolTip": "Tests\\StepDefinitions\\SearchWordsStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:39:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Configuration\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "Configuration\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Configuration\\ConfigurationManager.cs",
+              "RelativeToolTip": "Configuration\\ConfigurationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:43:21.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Configuration\\TestSettings.cs",
+              "RelativeDocumentMoniker": "Configuration\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Configuration\\TestSettings.cs",
+              "RelativeToolTip": "Configuration\\TestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:42:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DriverManager.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Driver\\DriverManager.cs",
+              "RelativeDocumentMoniker": "Driver\\DriverManager.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Driver\\DriverManager.cs",
+              "RelativeToolTip": "Driver\\DriverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T03:41:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Driver\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "Driver\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Driver\\DriverFactory.cs",
+              "RelativeToolTip": "Driver\\DriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:48:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T01:39:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Support\\TestContext.cs",
+              "RelativeDocumentMoniker": "Support\\TestContext.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Support\\TestContext.cs",
+              "RelativeToolTip": "Support\\TestContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T03:52:07.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleMatchesStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\ArticleMatchesStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Tests\\StepDefinitions\\ArticleMatchesStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\ArticleMatchesStepDefinitions.cs",
+              "RelativeToolTip": "Tests\\StepDefinitions\\ArticleMatchesStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T16:51:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDownloadStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\FileDownloadStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Tests\\StepDefinitions\\FileDownloadStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\FileDownloadStepDefinitions.cs",
+              "RelativeToolTip": "Tests\\StepDefinitions\\FileDownloadStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:30:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchRemoteJobsStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\SearchRemoteJobsStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Tests\\StepDefinitions\\SearchRemoteJobsStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\StepDefinitions\\SearchRemoteJobsStepDefinitions.cs",
+              "RelativeToolTip": "Tests\\StepDefinitions\\SearchRemoteJobsStepDefinitions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:58:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchRemoteJobs.feature",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\Features\\SearchRemoteJobs.feature",
+              "RelativeDocumentMoniker": "Tests\\Features\\SearchRemoteJobs.feature",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Tests\\Features\\SearchRemoteJobs.feature",
+              "RelativeToolTip": "Tests\\Features\\SearchRemoteJobs.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-09-04T02:00:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchRemoteJob.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\SearchRemoteJob.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchRemoteJob.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\SearchRemoteJob.cs",
+              "RelativeToolTip": "Pages\\SearchRemoteJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:05:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchForWords.cs",
+              "DocumentMoniker": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\SearchForWords.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchForWords.cs",
+              "ToolTip": "C:\\Users\\elyom\\Documents\\ElyoFiles\\EPAM\\Specialization\\EPAM_projects\\BDD\\Pages\\SearchForWords.cs",
+              "RelativeToolTip": "Pages\\SearchForWords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:04:15.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

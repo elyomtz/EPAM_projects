@@ -1,0 +1,9 @@
+﻿namespace CI_CD.Core.Configuration
+{
+    public enum BrowserType
+    {
+        Chrome,
+        Edge,
+        Firefox
+    }
+}
