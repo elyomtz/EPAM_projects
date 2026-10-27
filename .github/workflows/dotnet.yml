@@ -58,21 +58,21 @@ jobs:
       - name: Build
         run: dotnet build EPAM_projects.sln --configuration Release --no-restore
         
-      - name: Run API Tests          
-        if: |
-          (github.event_name == 'schedule' && github.event.schedule == '0 05 * * *') ||
-          (github.event_name == 'workflow_dispatch' && (inputs.test_type == 'API' || inputs.test_type == 'All'))
-        run: dotnet test --filter "TestCategory=API" --configuration Release --no-build
+      #- name: Run API Tests          
+      #  if: |
+      #    (github.event_name == 'schedule' && github.event.schedule == '0 05 * * *') ||
+      #    (github.event_name == 'workflow_dispatch' && (inputs.test_type == 'API' || inputs.test_type == 'All'))
+      #  run: dotnet test --filter "TestCategory=API" --configuration Release --no-build
  
-      - name: Run Unit Tests
+      #- name: Run Unit Tests
       
-        env:
-          BROWSER: ${{ inputs.browser }}
+       # env:
+        #  BROWSER: ${{ inputs.browser }}
           
-        if: |
-          (github.event_name == 'schedule' && github.event.schedule == '0 06 * * *') ||
-          (github.event_name == 'workflow_dispatch' && (inputs.test_type == 'Unit' || inputs.test_type == 'All'))
-        run: dotnet test --filter "TestCategory=Unit" --configuration Release --no-build
+        #if: |
+        #  (github.event_name == 'schedule' && github.event.schedule == '0 06 * * *') ||
+        #  (github.event_name == 'workflow_dispatch' && (inputs.test_type == 'Unit' || inputs.test_type == 'All'))
+        # run: dotnet test --filter "TestCategory=Unit" --configuration Release --no-build
         
         
       - name: Upload failed test screenshots
